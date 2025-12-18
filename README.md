@@ -31,9 +31,24 @@
     }
 ```
 
+
 ## 启动执行发生oom，并且生成dump文件
+
+<img width="140" height="25" alt="企业微信截图_17660413783500" src="https://github.com/user-attachments/assets/e014a9a4-25e3-47f6-a7af-595d6ce8a62a" />
 
 ## 启动jvisualvm工具
 
+<img width="793" height="139" alt="企业微信截图_17660413576913" src="https://github.com/user-attachments/assets/161ca58c-e95a-44df-9aea-2923715be152" />
+
+<img width="910" height="475" alt="企业微信截图_17660413941669" src="https://github.com/user-attachments/assets/36c81c8e-1f43-4737-9f9d-99f194c01716" />
+
 ## 点击文件选择装入，就可以看到系列日志，同时工具也可以远程连接进行日志排查
+<img width="240" height="155" alt="企业微信截图_17660414159052" src="https://github.com/user-attachments/assets/25a4ea1e-115a-4ea0-8fff-b23b05ff631e" />
+
+
+<img width="477" height="408" alt="企业微信截图_17660414668880" src="https://github.com/user-attachments/assets/96ba8c4a-237f-4ea2-abe9-adf90c1a5611" />
+
+
+<img width="580" height="641" alt="企业微信截图_17660414851369" src="https://github.com/user-attachments/assets/7fc92995-68ee-401a-bb5a-cbadf11daefc" />
+
 
